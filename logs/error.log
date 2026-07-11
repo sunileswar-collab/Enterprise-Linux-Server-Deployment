@@ -1,0 +1,31 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 04 18:40:06.442099 2026] [mpm_event:notice] [pid 27698:tid 27698] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Sat Jul 04 18:40:06.442217 2026] [core:notice] [pid 27698:tid 27698] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jul 04 19:50:51.003693 2026] [mpm_event:notice] [pid 27698:tid 27698] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 04 19:50:51.814031 2026] [mpm_event:notice] [pid 31548:tid 31548] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Sat Jul 04 19:50:51.814299 2026] [core:notice] [pid 31548:tid 31548] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 06 23:45:51.471708 2026] [mpm_event:notice] [pid 1673:tid 1673] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Mon Jul 06 23:45:51.472792 2026] [core:notice] [pid 1673:tid 1673] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 07 00:03:16.760014 2026] [mpm_event:notice] [pid 1616:tid 1616] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Tue Jul 07 00:03:16.762830 2026] [core:notice] [pid 1616:tid 1616] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 11 12:33:19.069042 2026] [mpm_event:notice] [pid 1628:tid 1628] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Sat Jul 11 12:33:19.069148 2026] [core:notice] [pid 1628:tid 1628] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 11 13:19:26.042773 2026] [mpm_event:notice] [pid 1616:tid 1616] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Sat Jul 11 13:19:26.043021 2026] [core:notice] [pid 1616:tid 1616] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jul 11 17:13:49.047468 2026] [mpm_event:notice] [pid 1616:tid 1616] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using fd17:625c:f037:2:a00:27ff:fe2a:8de1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 11 17:13:49.307787 2026] [mpm_event:notice] [pid 18887:tid 18887] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Sat Jul 11 17:13:49.307890 2026] [core:notice] [pid 18887:tid 18887] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jul 11 17:38:55.971377 2026] [mpm_event:notice] [pid 18887:tid 18887] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using fd17:625c:f037:2:a00:27ff:fe2a:8de1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 11 17:38:56.079158 2026] [mpm_event:notice] [pid 18887:tid 18887] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Sat Jul 11 17:38:56.079188 2026] [core:notice] [pid 18887:tid 18887] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Jul 11 17:40:18.556840 2026] [mpm_event:notice] [pid 18887:tid 18887] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using fd17:625c:f037:2:a00:27ff:fe2a:8de1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 11 17:40:18.701223 2026] [mpm_event:notice] [pid 18887:tid 18887] AH00489: Apache/2.4.66 (Ubuntu) configured -- resuming normal operations
+[Sat Jul 11 17:40:18.701247 2026] [core:notice] [pid 18887:tid 18887] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
