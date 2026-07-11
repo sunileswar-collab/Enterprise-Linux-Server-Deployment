@@ -1,0 +1,15 @@
+ Static hostname: enterprise-linux-server
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: 97ce4bf3c5824659ba9382b265947c69
+         Boot ID: 5c88a06dddaf42129833df7f6a8a0d54
+  Virtualization: oracle
+Operating System: Ubuntu 26.04 LTS
+          Kernel: Linux 7.0.0-27-generic
+    Architecture: x86-64
+ Hardware Vendor: innotek GmbH
+  Hardware Model: VirtualBox
+Hardware Version: 1.2
+Firmware Version: VirtualBox
+   Firmware Date: Fri 2006-12-01
+    Firmware Age: 19y 7month 1w 2d
