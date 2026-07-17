@@ -1,0 +1,151 @@
+Jul 17 22:47:35 enterprise-linux-server systemd[1]: Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: All rights reserved.
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: All rights reserved.
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: Wrote 0 leases to leases file.
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: Wrote 0 leases to leases file.
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: 
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: No subnet declaration for enp0s8 (192.168.56.104).
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: ** Ignoring requests on enp0s8.  If this is not what
+Jul 17 22:47:35 enterprise-linux-server sh[25396]:    you want, please write a subnet declaration
+Jul 17 22:47:35 enterprise-linux-server sh[25396]:    in your dhcpd.conf file for the network segment
+Jul 17 22:47:35 enterprise-linux-server sh[25396]:    to which interface enp0s8 is attached. **
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: No subnet declaration for enp0s3 (10.0.2.15).
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: ** Ignoring requests on enp0s3.  If this is not what
+Jul 17 22:47:35 enterprise-linux-server sh[25396]:    you want, please write a subnet declaration
+Jul 17 22:47:35 enterprise-linux-server sh[25396]:    in your dhcpd.conf file for the network segment
+Jul 17 22:47:35 enterprise-linux-server sh[25396]:    to which interface enp0s3 is attached. **
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: Not configured to listen on any interfaces!
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: If you think you have received this message due to a bug rather
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: than a configuration issue please read the section on submitting
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: bugs on either our web page at www.isc.org or in the README file
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: before submitting a bug.  These pages explain the proper
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: process and the information we find helpful for debugging.
+Jul 17 22:47:35 enterprise-linux-server sh[25396]: exiting.
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: No subnet declaration for enp0s8 (192.168.56.104).
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: ** Ignoring requests on enp0s8.  If this is not what
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]:    you want, please write a subnet declaration
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]:    in your dhcpd.conf file for the network segment
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]:    to which interface enp0s8 is attached. **
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: 
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: 
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: No subnet declaration for enp0s3 (10.0.2.15).
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: ** Ignoring requests on enp0s3.  If this is not what
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]:    you want, please write a subnet declaration
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]:    in your dhcpd.conf file for the network segment
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]:    to which interface enp0s3 is attached. **
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: 
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: 
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: Not configured to listen on any interfaces!
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: 
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: If you think you have received this message due to a bug rather
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: than a configuration issue please read the section on submitting
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: bugs on either our web page at www.isc.org or in the README file
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: before submitting a bug.  These pages explain the proper
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: process and the information we find helpful for debugging.
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: 
+Jul 17 22:47:35 enterprise-linux-server dhcpd[25396]: exiting.
+Jul 17 22:47:35 enterprise-linux-server systemd[1]: isc-dhcp-server.service: Main process exited, code=exited, status=1/FAILURE
+Jul 17 22:47:35 enterprise-linux-server systemd[1]: isc-dhcp-server.service: Failed with result 'exit-code'.
+Jul 17 23:18:32 enterprise-linux-server systemd[1]: Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: All rights reserved.
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: All rights reserved.
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Wrote 0 leases to leases file.
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Wrote 0 leases to leases file.
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Listening on LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Listening on LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Sending on   LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:18:32 enterprise-linux-server sh[27331]: Sending on   Socket/fallback/fallback-net
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Sending on   LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Sending on   Socket/fallback/fallback-net
+Jul 17 23:18:32 enterprise-linux-server dhcpd[27331]: Server starting service.
+Jul 17 23:20:09 enterprise-linux-server dhcpd[27331]: DHCPREQUEST for 192.168.56.104 from 08:00:27:c0:ae:91 via enp0s8
+Jul 17 23:20:09 enterprise-linux-server dhcpd[27331]: DHCPACK on 192.168.56.104 to 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:25:09 enterprise-linux-server dhcpd[27331]: DHCPREQUEST for 192.168.56.104 from 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:25:09 enterprise-linux-server dhcpd[27331]: DHCPACK on 192.168.56.104 to 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:28:37 enterprise-linux-server systemd[1]: Stopping isc-dhcp-server.service - ISC DHCP IPv4 server...
+Jul 17 23:28:37 enterprise-linux-server systemd[1]: isc-dhcp-server.service: Deactivated successfully.
+Jul 17 23:28:37 enterprise-linux-server systemd[1]: Stopped isc-dhcp-server.service - ISC DHCP IPv4 server.
+Jul 17 23:28:37 enterprise-linux-server systemd[1]: Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: All rights reserved.
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: All rights reserved.
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Wrote 1 leases to leases file.
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Wrote 1 leases to leases file.
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Listening on LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Sending on   LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Listening on LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Sending on   LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:28:37 enterprise-linux-server sh[28231]: Sending on   Socket/fallback/fallback-net
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Sending on   Socket/fallback/fallback-net
+Jul 17 23:28:37 enterprise-linux-server dhcpd[28231]: Server starting service.
+Jul 17 23:30:09 enterprise-linux-server dhcpd[28231]: DHCPREQUEST for 192.168.56.104 from 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:30:09 enterprise-linux-server dhcpd[28231]: DHCPACK on 192.168.56.104 to 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:31:11 enterprise-linux-server systemd[1]: Stopping isc-dhcp-server.service - ISC DHCP IPv4 server...
+Jul 17 23:31:11 enterprise-linux-server systemd[1]: isc-dhcp-server.service: Deactivated successfully.
+Jul 17 23:31:11 enterprise-linux-server systemd[1]: Stopped isc-dhcp-server.service - ISC DHCP IPv4 server.
+Jul 17 23:31:11 enterprise-linux-server systemd[1]: Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Internet Systems Consortium DHCP Server 4.4.3-P1
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: All rights reserved.
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Copyright 2004-2022 Internet Systems Consortium.
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: All rights reserved.
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: For info, please visit https://www.isc.org/software/dhcp/
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Config file: /etc/dhcp/dhcpd.conf
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Database file: /var/lib/dhcp/dhcpd.leases
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: PID file: /run/dhcp-server/dhcpd.pid
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Wrote 1 leases to leases file.
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Wrote 1 leases to leases file.
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Listening on LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Sending on   LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Listening on LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Sending on   LPF/enp0s8/08:00:27:c0:ae:91/192.168.56.0/24
+Jul 17 23:31:11 enterprise-linux-server sh[28335]: Sending on   Socket/fallback/fallback-net
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Sending on   Socket/fallback/fallback-net
+Jul 17 23:31:11 enterprise-linux-server dhcpd[28335]: Server starting service.
+Jul 17 23:35:09 enterprise-linux-server dhcpd[28335]: DHCPREQUEST for 192.168.56.104 from 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:35:09 enterprise-linux-server dhcpd[28335]: DHCPACK on 192.168.56.104 to 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:36:18 enterprise-linux-server dhcpd[28335]: reuse_lease: lease age 69 (secs) under 25% threshold, reply with unaltered, existing lease for 192.168.56.104
+Jul 17 23:36:18 enterprise-linux-server dhcpd[28335]: DHCPREQUEST for 192.168.56.104 from 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:36:18 enterprise-linux-server dhcpd[28335]: DHCPACK on 192.168.56.104 to 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:41:19 enterprise-linux-server dhcpd[28335]: DHCPREQUEST for 192.168.56.104 from 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
+Jul 17 23:41:19 enterprise-linux-server dhcpd[28335]: DHCPACK on 192.168.56.104 to 08:00:27:c0:ae:91 (enterprise-linux-server) via enp0s8
